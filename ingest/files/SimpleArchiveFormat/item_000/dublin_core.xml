@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dublin_core>
+	<dcvalue element="title">A Study of The Guiding Center Approximation</dcvalue>
+	<dcvalue element="authors">Yao, Qun</dcvalue>
+	<dcvalue element="date" qualifier="issued">1993-01</dcvalue>
+	<dcvalue element="description">A sudy of the relationship between the trajectories of the exact and drift Hamiltonians for charged particles in toroidal magnetic fields is presented.</dcvalue>
+	<dcvalue element="contributor" qualifier="advisor">Boozer, Allen H.</dcvalue>
+	<dcvalue element="contributor" qualifier="committeeMember">Li, Chi-Kwong</dcvalue>
+	<dcvalue element="contributor" qualifier="committeeMember">Gross, Franz L.</dcvalue>
+	<dcvalue element="contributor" qualifier="committeeMember">Tracy, Eugene R.</dcvalue>
+	<dcvalue element="contributor" qualifier="committeeMember">Vahala, George M.</dcvalue>
+</dublin_core>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dublin_core>
+	<dcvalue element="title">"Obscene Odes on the Windows of the Skull": Deconstructing the Memory of the Howl Trial of 1957</dcvalue>
+	<dcvalue element="authors">Meyers, Kayla D.</dcvalue>
+	<dcvalue element="subject">Howl Trial</dcvalue>
+	<dcvalue element="date" qualifier="issued">2013-12</dcvalue>
+	<dcvalue element="description">“‘Obscene Odes on the Windows of the Skull’: Deconstructing the Howl Trial of 1957” examines how the obscenity trial around Allen Ginsberg’s Howl is remembered, how that memory is constructed, whom it serves, and what it forgets.</dcvalue>
+	<dcvalue element="contributor" qualifier="advisor">McGovern, Charles</dcvalue>
+	<dcvalue element="contributor" qualifier="committeeMember">Knight, Arthur</dcvalue>
+	<dcvalue element="contributor" qualifier="committeeMember">Raphael, Marc Lee</dcvalue>
+</dublin_core>

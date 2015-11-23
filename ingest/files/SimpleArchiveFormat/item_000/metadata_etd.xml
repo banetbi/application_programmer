@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dublin_core schema="etd">
+	<dcvalue element="degree" qualifier="discipline">Physics</dcvalue>
+	<dcvalue element="degree" qualifier="level">Ph.D.</dcvalue>
+	<dcvalue element="degree" qualifier="grantor">College of William and Mary</dcvalue>
+</dublin_core>

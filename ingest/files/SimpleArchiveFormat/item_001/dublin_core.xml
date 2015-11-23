@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dublin_core>
+	<dcvalue element="title">1785?  Memorandum by Leven Powell regarding a toll road.</dcvalue>
+	<dcvalue element="authors">Powell, Leven, 1737-1810</dcvalue>
+	<dcvalue element="date" qualifier="issued">1785</dcvalue>
+	<dcvalue element="genre">Letters (correspondence)</dcvalue>
+	<dcvalue element="identifier" qualifier="collectionId">Mss. Acc. 2007.110</dcvalue>
+	<dcvalue element="description">Decribes toll road in Loudoun County, VA. Includes typed transcription.</dcvalue>
+</dublin_core>
